@@ -26,7 +26,7 @@ git clone git@github.com:Fedor-new-Hope/api_yatube.gite
 ```
 python -m venv venv
 
-. venv/bin/activate
+source venv/Scripts/activate
 
 pip install -r requirements.txt
 ```
